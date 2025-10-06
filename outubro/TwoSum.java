@@ -47,7 +47,7 @@ public class TwoSum {
     }
 
     public static void main(String [] args){
-        int [] arrayTest = new int[] {3,3};
+        int [] arrayTest = new int[] {3,};
         System.out.println(Arrays.toString(twoSum(arrayTest, 6)));
     }
 }
